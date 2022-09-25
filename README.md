@@ -2,8 +2,8 @@
 
 Integrantes:
 
-Jean Paul Gonzales 
-Santiago Grisales
+Jean Paul Gonzales, 
+Santiago Grisales,
 Cristian Riascos
 
 
