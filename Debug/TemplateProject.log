@@ -1,0 +1,15 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(47,1): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(50,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(53,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(56,1): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(63,10): warning C4101: 'h': variable local sin referencia
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(63,7): warning C4101: 'w': variable local sin referencia
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(106,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(117,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(124,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(130,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(145,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\main.cpp(216,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TemplateProject.vcxproj -> C:\Users\PC01AQ\Desktop\Semanas 7, 8, 9. En Filum. Realismo OGL (Obligatoria)\Debug\TemplateProject.exe
