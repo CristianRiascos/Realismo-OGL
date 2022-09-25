@@ -1,0 +1,86 @@
+# Blender MTL File: 'Bote.blend'
+# Material Count: 6
+
+newmtl M_Boat_Base_1_JFG
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Base_1_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Base_1_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Base_1_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Base_1_JFG_Metallic.png
+
+newmtl M_Boat_MiddlePlank_1_JFG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_1_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_1_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_1_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_1_JFG_Metallic.png
+
+newmtl M_Boat_MiddlePlank_2_JFG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_2_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_2_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_2_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_MiddlePlank_2_JFG_Metallic.png
+
+newmtl M_Boat_Planks_JFG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Planks_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Planks_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Planks_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Planks_JFG_Metallic.png
+
+newmtl M_Boat_Supports_Horizontal_JFG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Horizontal_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Horizontal_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Horizontal_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Horizontal_JFG_Metallic.png
+
+newmtl M_Boat_Supports_Vertical_JFG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Vertical_JFG_Normal.png
+map_Kd C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Vertical_JFG_BaseColor.png
+map_Ns C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Vertical_JFG_Roughness.png
+refl C:\\Users\\jeanz\\Desktop\\Textures\\Wooden_Boat_1\\PBR\\T_Boat_Supports_Vertical_JFG_Metallic.png
